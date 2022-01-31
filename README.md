@@ -3,6 +3,8 @@
 This is a simple adapter board to connect a debug probe with 2x5 1.27mm pitch
 connector (like the HS Probe) to a Blue Pill / Black Pill more easily.
 
+![Photo of the assembled adapter PCB](images/photo.jpg)
+
 This is a [LibrePCB](https://librepcb.org) project!
 
 ## BOM
