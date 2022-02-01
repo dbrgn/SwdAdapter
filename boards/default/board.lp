@@ -83,6 +83,16 @@
    (auto_rotate true) (mirror false) (value "{{NAME}}")
   )
  )
+ (device b4e4b4f5-2af7-490b-afeb-f648509edbb2
+  (lib_device 7186a6b2-4042-451f-a698-288394ec67a7)
+  (lib_footprint 3f3b7cec-1a06-4103-a1b6-a775dacba52f)
+  (position 15.24 2.54) (rotation 0.0) (mirror true)
+  (stroke_text 9d732277-1102-4fda-be5a-0c99233c8cda (layer bot_stop_mask)
+   (height 1.0) (stroke_width 0.2) (letter_spacing auto) (line_spacing 1.48)
+   (align left center) (position 13.14 2.54) (rotation 0.0)
+   (auto_rotate false) (mirror true) (value "{{VALUE}}")
+  )
+ )
  (device fcbb698b-81fa-4f23-9806-80b5a2ed620e
   (lib_device 7f909383-6ffb-48ce-b340-e60d31396a2f)
   (lib_footprint b4e9149b-abfd-4162-88c7-2f81cc13b774)

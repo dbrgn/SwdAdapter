@@ -72,6 +72,12 @@
   (name "J3") (value "Reset")
   (signal fa56d4f4-7e05-4c45-843b-8fdeccb05279 (net 79f6685a-4275-412c-b21a-45e880a42175))
  )
+ (component b4e4b4f5-2af7-490b-afeb-f648509edbb2
+  (lib_component b91cf23a-4f07-4b99-8f52-0b42304aef20)
+  (lib_variant 0eebde17-6d45-4f73-95fe-3078a0f68ab6)
+  (lib_device 7186a6b2-4042-451f-a698-288394ec67a7)
+  (name "LOGO2") (value "Made With\nLibrePCB")
+ )
  (component fcbb698b-81fa-4f23-9806-80b5a2ed620e
   (lib_component e9ea7610-0ef4-4855-9f9b-e7f77a28afa1)
   (lib_variant dfc0ec02-d4da-413e-9dba-a91a94038f68)
